@@ -25,7 +25,7 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-09-11 |    04     |    Week1    |  Ethereum Introduction  | https://ethereum.org/en/  |
 | 2023-09-12 |    04     |    Week1    |  Binance and MetaMask Configurations  |  https://metamask.io/  |
 | 2023-09-13 |    04     |    Week1    |  Smart Contracts in Solidity  |  https://remix.ethereum.org/  |
-| 2023-09-14 |    04     |    Week|    |  Nvim Installation  |  https://www.youtube.com/watch?v=w7i4amO_zaE&t=225s  |
+| 2023-09-14 |    04     |    Week1    |  Nvim Installation  |  https://www.youtube.com/watch?v=w7i4amO_zaE&t=225s  |
 
 
 
