@@ -22,13 +22,13 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-09-05 |    04     |  Workshop1  |  IPFS Installation  |  https://docs.ipfs.tech/install/command-line/#install-official-binary-distributions  |
 | 2023-09-06 |    04     |  Workshop1  |  Blockchain Introduction  |  https://www.youtube.com/watch?v=bBC-nXj3Ng4  |
 | 2023-09-07 |    04     |  Workshop1  |  Ethereum Investigation  |  https://youtu.be/9UtxwQ50c2Y?si=me1Pgq4qMXA9Y5Bo  |
-| 2023-09-11 |    04     |    Week1    |  Ethereum Introduction  | https://ethereum.org/en/  |
-| 2023-09-12 |    04     |    Week1    |  Binance and MetaMask Configurations  |  https://metamask.io/  |
-| 2023-09-13 |    04     |    Week1    |  Smart Contracts in Solidity  |  https://remix.ethereum.org/  |
-| 2023-09-14 |    04     |    Week1    |  Nvim Installation  |  https://www.youtube.com/watch?v=w7i4amO_zaE&t=225s  |
-| 2023-09-18 |    04     |    Week2    |  Nvim lua plugins configuration  |  https://youtu.be/w7i4amO_zaE?si=S7wnD4EobBW-MFVZ |
-| 2023-09-19 |    04     |    Week2    |  PLugin Manager and Treesitter plugins | https://youtu.be/w7i4amO_zaE?si=2bOOJFxhCswkSpbC |
-| 2023-09-20 |    04     |    Week2    |  LSP Setup and Editor settings  | https://youtu.be/w7i4amO_zaE?si=2bOOJFxhCswkSpbC |
-| 2023-09-21 |    04     |    Week2    |  IPFS Node  | https://docs.ipfs.tech/concepts/dnslink/#resolve-dnslink-name | 
+| 2023-09-11 |    04     |  Ethereum/Exchanges  |  Ethereum Introduction  | https://ethereum.org/en/  |
+| 2023-09-12 |    04     |  Ethereum/Exchanges  |  Binance and MetaMask Configurations  |  https://metamask.io/  |
+| 2023-09-13 |    04     |  Ethereum/Exchanges  |  Smart Contracts in Solidity  |  https://remix.ethereum.org/  |
+| 2023-09-14 |    04     |  Ethereum/Exchanges  |  Nvim Installation  |  https://www.youtube.com/watch?v=w7i4amO_zaE&t=225s  |
+| 2023-09-18 |    04     |  Setup DevTools   |  Nvim lua plugins configuration  |  https://youtu.be/w7i4amO_zaE?si=S7wnD4EobBW-MFVZ |
+| 2023-09-19 |    04     |  Setup DevTools   |  PLugin Manager and Treesitter plugins | https://youtu.be/w7i4amO_zaE?si=2bOOJFxhCswkSpbC |
+| 2023-09-20 |    04     |  Setup DevTools   |  LSP Setup and Editor settings  | https://youtu.be/w7i4amO_zaE?si=2bOOJFxhCswkSpbC |
+| 2023-09-21 |    04     |  Setup DevTools   |  IPFS Node  | https://docs.ipfs.tech/concepts/dnslink/#resolve-dnslink-name | 
 
 
