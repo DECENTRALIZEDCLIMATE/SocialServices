@@ -26,6 +26,9 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-09-12 |    04     |    Week1    |  Binance and MetaMask Configurations  |  https://metamask.io/  |
 | 2023-09-13 |    04     |    Week1    |  Smart Contracts in Solidity  |  https://remix.ethereum.org/  |
 | 2023-09-14 |    04     |    Week1    |  Nvim Installation  |  https://www.youtube.com/watch?v=w7i4amO_zaE&t=225s  |
-
+| 2023-09-18 |    04     |    Week2    |  Nvim lua plugins configuration  |  https://youtu.be/w7i4amO_zaE?si=S7wnD4EobBW-MFVZ |
+| 2023-09-19 |    04     |    Week2    |  PLugin Manager and Treesitter plugins | https://youtu.be/w7i4amO_zaE?si=2bOOJFxhCswkSpbC |
+| 2023-09-20 |    04     |    Week2    |  LSP Setup and Editor settings  | https://youtu.be/w7i4amO_zaE?si=2bOOJFxhCswkSpbC |
+| 2023-09-21 |    04     |    Week2    |  IPFS Node  | https://docs.ipfs.tech/concepts/dnslink/#resolve-dnslink-name | 
 
 
