@@ -30,5 +30,8 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-09-19 |    04     |  Setup DevTools   |  PLugin Manager and Treesitter plugins | https://youtu.be/w7i4amO_zaE?si=2bOOJFxhCswkSpbC |
 | 2023-09-20 |    04     |  Setup DevTools   |  LSP Setup and Editor settings  | https://youtu.be/w7i4amO_zaE?si=2bOOJFxhCswkSpbC |
 | 2023-09-21 |    04     |  Setup DevTools   |  IPFS Node  | https://docs.ipfs.tech/concepts/dnslink/#resolve-dnslink-name | 
-
+| 2023-09-25 |    04     |   IPFS Gateway    |  Kubo IPFS installation  |  https://docs.ipfs.tech/concepts/ipfs-gateway/#gateway-request-lifecycle  |
+| 2023-09-26 |    04     |   IPFS Gateway    |  Gateway setup  |  https://docs.ipfs.tech/concepts/ipfs-gateway/#gateway-request-lifecycle  |
+| 2023-09-27 |    04     |   IPFS Gateway    |  IPFS connection test  | https://cloudflare-ipfs.com/ipfs/bafybeigep2fh4zdiat363qutigtlhcggwtojrdo7m24jljnmkb7nke6phq/  |
+| 2023-09-28 |    04     |   IPFS Gateway    |  Zola blog setup  |  https://www.getzola.org/themes/  |  
 
