@@ -37,4 +37,9 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-10-02 |    04     | DECA NFTs Giveaway | Project definition | https://forum.deca.eco/-41/project-proposal-dev1-deca-nfts-giveaway |
 | 2023-10-03 |    04     | DECA NFTs Giveaway | Project specification | https://forum.deca.eco/-41/project-proposal-dev1-deca-nfts-giveaway |
 | 2023-10-04 |    04     | DECA NFTs Giveaway | Uri update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/fdfb3cef77be1101843594c4c4206fba6617bac8 |
-| 2023-10-05 |    04     | Research blog SetUp | Blog Setuo | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
+| 2023-10-05 |    04     | Research blog SetUp | Blog Setup | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
+| 2023-10-09 |    04     | DECA NFTs Giveaway | Uri Update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-09 |    04     | DECA NFTs Giveaway | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-09 |    04     | DECA NFTs Giveaway | IPFS pin | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/58356d5fd7fd9035d66eae25cdb08894aef5f4a9 |
+| 2023-10-09 |    04     | Research blog Gateway | Fix PublicGateway path | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
+
