@@ -42,4 +42,15 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-10-09 |    04     | DECA NFTs Giveaway | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
 | 2023-10-09 |    04     | DECA NFTs Giveaway | IPFS pin | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/58356d5fd7fd9035d66eae25cdb08894aef5f4a9 |
 | 2023-10-09 |    04     | Research blog Gateway | Fix PublicGateway path | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
+| 2023-10-16 |    04     | DECA NFTs WebSite | Solving issues from uris | https://git.decentralizedscience.org/DECA/dco2_ipfs/issues/3 |
+| 2023-10-17 |    04     | DECA NFTs WebSite | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-18 |    04     | DECA NFTs WebSite | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-19 |    04     | Research blog Gateway | Solving design issues from zola | https://github.com/cydave/zola-theme-papermod/issues/2 | 
+
+
+
+
+
+
+
 
