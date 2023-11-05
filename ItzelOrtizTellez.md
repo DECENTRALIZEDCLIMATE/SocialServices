@@ -46,10 +46,10 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-10-17 |    04     | DECA NFTs WebSite | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
 | 2023-10-18 |    04     | DECA NFTs WebSite | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
 | 2023-10-19 |    04     | Research blog Gateway | Solving design issues from zola | https://github.com/cydave/zola-theme-papermod/issues/2 | 
-
-
-
-
+| 2023-10-23 |    04     | DECA NFTs WebSite | Solving NFT design issues | https://gateway.decentralizedscience.org/ipfs/bafybeid34mwku4jro4osugipycaijbvp36qox63se5yxvozdid4x2kq24q/ |  
+| 2023-10-24 |    04     | DECA NFTs WebSite | Project proposal on DECA Forum | https://forum.deca.eco/-41/project-proposal-dev1-deca-nfts-giveaway |
+| 2023-10-25 |    04     | DECA NFTs WebSite | IPFS Helia research | https://www.youtube.com/watch?v=c7zO7R9GGJY |
+| 2023-10-26 |    04     | Research blog | Decentralizing blog | https://gateway.decentralizedscience.org/ipns/decentralizedscience.org/ |
 
 
 
