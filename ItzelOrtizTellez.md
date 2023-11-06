@@ -50,7 +50,7 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-10-24 |    04     | DECA NFTs WebSite | Project proposal on DECA Forum | https://forum.deca.eco/-41/project-proposal-dev1-deca-nfts-giveaway |
 | 2023-10-25 |    04     | DECA NFTs WebSite | IPFS Helia research | https://www.youtube.com/watch?v=c7zO7R9GGJY |
 | 2023-10-26 |    04     | Research blog | Decentralizing blog | https://gateway.decentralizedscience.org/ipns/decentralizedscience.org/ |
-
-
-
-
+| 2023-10-30 |    04     | DECA NFTs Giveaway |  Wasm yew tutorial | https://www.youtube.com/watch?v=YHJjmsw_Sx0 |
+| 2023-10-31 |    04     | DECA NFTs Giveaway | Decentralizing Rust wasm app template | https://github.com/rustwasm/wasm-pack-template | 
+| 2023-10-01 |    04     | SetUp Tools | Tmux plugin config | https://www.youtube.com/watch?v=DzNmUNvnB04 |
+| 2023-10-02 |    04     | DECA NFTs Giveaway | Yew Wasm Research and PowerShell Setup | https://www.geeksforgeeks.org/how-to-install-linux-on-windows-powershell-subsystem/ |
