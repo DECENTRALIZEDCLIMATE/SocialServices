@@ -58,7 +58,10 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-11-07 |    04     | DECA NFTs WebSite | Decentralizing yew app | https://dev.to/pancy/build-a-decentralized-app-on-ipfs-using-webassembly-46a4 |
 | 2023-11-08 |    04     | DECA NFTs WebSite | ChatGPT setup tools | https://github.com/0xacx/chatGPT-shell-cli |
 | 2023-11-09 |    04     | Research blog | Decentralizing research blog with fleek | https://fleek.co/ |
-
+| 2023-11-13 |    04     | DECA NFTs WebSite | Decentralizing yew app with cargo web | https://yew.rs/docs/0.18.0/getting-started/project-setup/using-cargo-web |
+| 2023-11-14 |    04     | DECA NFTs WebSite | Decentralizing yew app | https://yew.rs/docs/getting-started/build-a-sample-app |
+| 2023-11-15 |    04     | DECA NFTs WebSite | Implement the website with yew | https://github.com/yewstack/yew-trunk-minimal-template |
+| 2023-11-16 |    04     | Research blog | Fixing fleek error, setting up docker | https://fleek.co/ |
 
 
 
