@@ -52,5 +52,16 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-10-26 |    04     | Research blog | Decentralizing blog | https://gateway.decentralizedscience.org/ipns/decentralizedscience.org/ |
 | 2023-10-30 |    04     | DECA NFTs Giveaway |  Wasm yew tutorial | https://www.youtube.com/watch?v=YHJjmsw_Sx0 |
 | 2023-10-31 |    04     | DECA NFTs Giveaway | Decentralizing Rust wasm app template | https://github.com/rustwasm/wasm-pack-template | 
-| 2023-10-01 |    04     | SetUp Tools | Tmux plugin config | https://www.youtube.com/watch?v=DzNmUNvnB04 |
-| 2023-10-02 |    04     | DECA NFTs Giveaway | Yew Wasm Research and PowerShell Setup | https://www.geeksforgeeks.org/how-to-install-linux-on-windows-powershell-subsystem/ |
+| 2023-11-01 |    04     | SetUp Tools | Tmux plugin config | https://www.youtube.com/watch?v=DzNmUNvnB04 |
+| 2023-11-02 |    04     | DECA NFTs Giveaway | Yew Wasm Research and PowerShell Setup | https://www.geeksforgeeks.org/how-to-install-linux-on-windows-powershell-subsystem/ |
+| 2023-11-06 |    04     | DECA NFTs WebSite | Decentralizing rust app with web-packer | https://github.com/rustwasm/create-wasm-app |
+| 2023-11-07 |    04     | DECA NFTs WebSite | Decentralizing yew app | https://dev.to/pancy/build-a-decentralized-app-on-ipfs-using-webassembly-46a4 |
+| 2023-11-08 |    04     | DECA NFTs WebSite | ChatGPT setup tools | https://github.com/0xacx/chatGPT-shell-cli |
+| 2023-11-09 |    04     | Research blog | Decentralizing research blog with fleek | https://fleek.co/ |
+
+
+
+
+
+
+
