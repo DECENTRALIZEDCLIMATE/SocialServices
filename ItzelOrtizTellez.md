@@ -66,8 +66,8 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-11-21 |    04     | DECA NFTs | Foundry tutorial | https://book.getfoundry.sh/ |
 | 2023-11-22 |    04     | DECA NFTs | Fpundry solidity contracts | https://docs.openzeppelin.com/contracts/5.x/access-control |
 | 2023-11-23 |    04     | Research blog setup | Setting up fleek with docker | https://docs.docker.com/compose/gettingstarted/ |
-
-
-
-
+| 2023-11-27 |    04     | DECA NFTs WebSite | Html to Rust | https://yew.rs/docs/next/concepts/basic-web-technologies/html |
+| 2023-11-28 |    04     | DECA NFTs WebSite | Html and scss to Yew | https://github.com/yewstack/yew-trunk-minimal-template |
+| 2023-11-29 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
+| 2023-11-30 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
 
