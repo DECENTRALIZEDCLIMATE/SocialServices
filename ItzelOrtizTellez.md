@@ -37,4 +37,37 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-10-02 |    04     | DECA NFTs Giveaway | Project definition | https://forum.deca.eco/-41/project-proposal-dev1-deca-nfts-giveaway |
 | 2023-10-03 |    04     | DECA NFTs Giveaway | Project specification | https://forum.deca.eco/-41/project-proposal-dev1-deca-nfts-giveaway |
 | 2023-10-04 |    04     | DECA NFTs Giveaway | Uri update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/fdfb3cef77be1101843594c4c4206fba6617bac8 |
-| 2023-10-05 |    04     | Research blog SetUp | Blog Setuo | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
+| 2023-10-05 |    04     | Research blog SetUp | Blog Setup | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
+| 2023-10-09 |    04     | DECA NFTs Giveaway | Uri Update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-09 |    04     | DECA NFTs Giveaway | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-09 |    04     | DECA NFTs Giveaway | IPFS pin | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/58356d5fd7fd9035d66eae25cdb08894aef5f4a9 |
+| 2023-10-09 |    04     | Research blog Gateway | Fix PublicGateway path | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
+| 2023-10-16 |    04     | DECA NFTs WebSite | Solving issues from uris | https://git.decentralizedscience.org/DECA/dco2_ipfs/issues/3 |
+| 2023-10-17 |    04     | DECA NFTs WebSite | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-18 |    04     | DECA NFTs WebSite | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-19 |    04     | Research blog Gateway | Solving design issues from zola | https://github.com/cydave/zola-theme-papermod/issues/2 | 
+| 2023-10-23 |    04     | DECA NFTs WebSite | Solving NFT design issues | https://gateway.decentralizedscience.org/ipfs/bafybeid34mwku4jro4osugipycaijbvp36qox63se5yxvozdid4x2kq24q/ |  
+| 2023-10-24 |    04     | DECA NFTs WebSite | Project proposal on DECA Forum | https://forum.deca.eco/-41/project-proposal-dev1-deca-nfts-giveaway |
+| 2023-10-25 |    04     | DECA NFTs WebSite | IPFS Helia research | https://www.youtube.com/watch?v=c7zO7R9GGJY |
+| 2023-10-26 |    04     | Research blog | Decentralizing blog | https://gateway.decentralizedscience.org/ipns/decentralizedscience.org/ |
+| 2023-10-30 |    04     | DECA NFTs Giveaway |  Wasm yew tutorial | https://www.youtube.com/watch?v=YHJjmsw_Sx0 |
+| 2023-10-31 |    04     | DECA NFTs Giveaway | Decentralizing Rust wasm app template | https://github.com/rustwasm/wasm-pack-template | 
+| 2023-11-01 |    04     | SetUp Tools | Tmux plugin config | https://www.youtube.com/watch?v=DzNmUNvnB04 |
+| 2023-11-02 |    04     | DECA NFTs Giveaway | Yew Wasm Research and PowerShell Setup | https://www.geeksforgeeks.org/how-to-install-linux-on-windows-powershell-subsystem/ |
+| 2023-11-06 |    04     | DECA NFTs WebSite | Decentralizing rust app with web-packer | https://github.com/rustwasm/create-wasm-app |
+| 2023-11-07 |    04     | DECA NFTs WebSite | Decentralizing yew app | https://dev.to/pancy/build-a-decentralized-app-on-ipfs-using-webassembly-46a4 |
+| 2023-11-08 |    04     | DECA NFTs WebSite | ChatGPT setup tools | https://github.com/0xacx/chatGPT-shell-cli |
+| 2023-11-09 |    04     | Research blog | Decentralizing research blog with fleek | https://fleek.co/ |
+| 2023-11-13 |    04     | DECA NFTs WebSite | Decentralizing yew app with cargo web | https://yew.rs/docs/0.18.0/getting-started/project-setup/using-cargo-web |
+| 2023-11-14 |    04     | DECA NFTs WebSite | Decentralizing yew app | https://yew.rs/docs/getting-started/build-a-sample-app |
+| 2023-11-15 |    04     | DECA NFTs WebSite | Implement the website with yew | https://github.com/yewstack/yew-trunk-minimal-template |
+| 2023-11-16 |    04     | Research blog | Fixing fleek error, setting up docker | https://fleek.co/ |
+| 2023-11-20 |    04     | DECA NFTs | Foundry solidity contracts | https://docs.openzeppelin.com/contracts/5.x/access-control |
+| 2023-11-21 |    04     | DECA NFTs | Foundry tutorial | https://book.getfoundry.sh/ |
+| 2023-11-22 |    04     | DECA NFTs | Fpundry solidity contracts | https://docs.openzeppelin.com/contracts/5.x/access-control |
+| 2023-11-23 |    04     | Research blog setup | Setting up fleek with docker | https://docs.docker.com/compose/gettingstarted/ |
+| 2023-11-27 |    04     | DECA NFTs WebSite | Html to Rust | https://yew.rs/docs/next/concepts/basic-web-technologies/html |
+| 2023-11-28 |    04     | DECA NFTs WebSite | Html and scss to Yew | https://github.com/yewstack/yew-trunk-minimal-template |
+| 2023-11-29 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
+| 2023-11-30 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
+
