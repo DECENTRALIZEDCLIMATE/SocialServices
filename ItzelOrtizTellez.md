@@ -70,4 +70,20 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-11-28 |    04     | DECA NFTs WebSite | Html and scss to Yew | https://github.com/yewstack/yew-trunk-minimal-template |
 | 2023-11-29 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
 | 2023-11-30 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
+| 2023-12-04 |    04     | DECA NFTs Contract | Programming the contract | https://docs.openzeppelin.com/contracts/5.x/access-control |
+| 2023-12-05 |    04     | DECA NFTs Contract | Programming the contract | https://docs.openzeppelin.com/contracts/5.x/access-control |
+| 2023-12-06 |    04     | DECA NFTs Testing  | Testing the contract | https://cryptoguide.dev/posts/guide-to-testing-with-foundry-solidity/ |
+| 2023-12-07 |    04     | DECA NFTs Testing  | Testing the contract with the NFTs | https://cryptoguide.dev/posts/guide-to-testing-with-foundry-solidity/ |
+
+
+
+
+
+
+
+
+
+
+
+
 
