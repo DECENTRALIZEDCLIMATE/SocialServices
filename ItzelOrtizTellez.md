@@ -70,4 +70,20 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-11-28 |    04     | DECA NFTs WebSite | Html and scss to Yew | https://github.com/yewstack/yew-trunk-minimal-template |
 | 2023-11-29 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
 | 2023-11-30 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
+| 2023-12-04 |    04     | DECA NFTs Contract | Programming the contract | https://docs.openzeppelin.com/contracts/5.x/access-control |
+| 2023-12-05 |    04     | DECA NFTs Contract | Programming the contract | https://docs.openzeppelin.com/contracts/5.x/access-control |
+| 2023-12-06 |    04     | DECA NFTs Testing  | Testing the contract | https://cryptoguide.dev/posts/guide-to-testing-with-foundry-solidity/ |
+| 2023-12-07 |    04     | DECA NFTs Testing  | Testing the contract with the NFTs | https://cryptoguide.dev/posts/guide-to-testing-with-foundry-solidity/ |
+| 2023-12-11 |    04     | DECA NFTs | Implementing JavaScript to Rust with callback | https://github.com/yewstack/yew/blob/master/examples/js_callback/js/imp.js |
+| 2023-12-12 |    04     | SEtUp Tools | Setting up the AI | https://github.com/64bit/async-openai |
+| 2023-12-13 |    04     | DECA NFTs | Implementing JavaScript to Rust | https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ | 
+| 2023-12-14 |    04     | DECA NFTs | Implementing JavaScript to Rust | https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ |
+
+
+
+
+
+
+
+
 
