@@ -78,9 +78,9 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-12-12 |    04     | SEtUp Tools | Setting up the AI | https://github.com/64bit/async-openai |
 | 2023-12-13 |    04     | DECA NFTs | Implementing JavaScript to Rust | https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ | 
 | 2023-12-14 |    04     | DECA NFTs | Implementing JavaScript to Rust | https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ |
-| 2024-01-01 |    04     | Rust | Rust book and Rustlings | https://doc.rust-lang.org/book/ch05-01-defining-structs.html |
-| 2024-01-02 |    04     | Rust | Rust book and Rustlings | https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html |
-| 2024-01-03 |    04     | Rust | Rust book and Rustlings | https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html |
+| 2024-01-01 |    04     | Rust | Rust book and Rustlings chapter 5 | https://doc.rust-lang.org/book/ch05-01-defining-structs.html |
+| 2024-01-02 |    04     | Rust | Rust book and Rustlings chapter 6 | https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html |
+| 2024-01-03 |    04     | Rust | Rust book and Rustlings chapter 6 | https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html |
 | 2024-01-04 |    04     | DECA NFTs FRONTEND | Implementing JavaScript to Rust with callback | https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ |
 
 
