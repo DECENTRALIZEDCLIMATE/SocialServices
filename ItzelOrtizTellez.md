@@ -89,8 +89,15 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2024-01-08 |    04     | DECA NFTs FRONTEND | Example app with JavaScript callback |  https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ | 
 | 2024-01-09 |    04     | DECA NFTs giveaway | Wallet connect with Rust | https://github.com/quay-rs/ethers-web/tree/main |
 | 2024-01-10 |    04     | DECA NFTs giveaway | Designing project architecture | ed4ed8c95e | 
-| 2024-01-11 |    04     | Social Media Administration | Getting the foundation's social media passwords |
-
+| 2024-01-11 |    04     | Social Media Administration | Getting the foundation's social media passwords | https://git.decentralizedscience.org/DECA/access_db  |
+| 2024-01-15 |    04     | DECA Protocol | Fork of the DECA app to implement helia | https://github.com/ipfs/helia |
+| 2024-01-16 |    04     | ZK Hack IV | Kick off & ZK Jargon Decoder | https://www.ringcentral.com/rc-events |
+| 2024-01-17 |    04     | DECA Protocol | Fork of the DECA app to implement helia | https://git.decentralizedscience.org/itzelot01/DECA-Protocol-FE/src/branch/develop | 
+| 2024-01-18 |    04     | DECA Protocol | Fixing issues with yew JavaScript callback | https://git.decentralizedscience.org/itzelot01/DECA-Protocol-FE/src/branch/develop | 
+| 2024-01-22 |    04     | DECA Protocol | Fixing issues with yew JavaScript callback | https://git.decentralizedscience.org/itzelot01/DECA-Protocol-FE/src/branch/develop |
+| 2024-01-23 |    04     | ZK Hack IV | ZK HACK IV - Get Rusty with RISC Zero: Build your ZK Rust Application  | https://www.ringcentral.com/rc-events |
+| 2024-01-24 |    04     | DECA Protocol | Implementing  helia following a tutorial | https://dev.to/davidedelpapa/yew-tutorial-05-drive-through-libraries-2gj5 |
+| 2024-01-25 |    04     | DECA Protocol | Implementing helia with interop | https://github.com/Madoshakalaka/yew-interop |
 
 
 
