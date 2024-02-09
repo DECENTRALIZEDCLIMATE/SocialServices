@@ -98,6 +98,37 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2024-01-23 |    04     | ZK Hack IV | ZK HACK IV - Get Rusty with RISC Zero: Build your ZK Rust Application  | https://www.ringcentral.com/rc-events |
 | 2024-01-24 |    04     | DECA Protocol | Implementing  helia following a tutorial | https://dev.to/davidedelpapa/yew-tutorial-05-drive-through-libraries-2gj5 |
 | 2024-01-25 |    04     | DECA Protocol | Implementing helia with interop | https://github.com/Madoshakalaka/yew-interop |
+| 2024-01-29 |    04     | DECA Protocol | Implementing helia with interop | https://github.com/Madoshakalaka/yew-interop | 
+| 2024-01-30 |    04     |  ZK Hack IV  | Polygon Labs and Miden team | https://www.ringcentral.com/rc-events |
+| 2024-01-31 |    04     |  yew-interop  | New project based off the yew-interop example | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
+| 2024-02-01 |    04     |  yew-interop  | Following the github yew-interop example for helia | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
+| 2024-02-06 |    04     |  ZK Hack IV  | ZK Panel, Prizes & ZK Job Fair | https://www.ringcentral.com/rc-events |  
+| 2024-02-07 |    04     |  yew-interop  | Following the github yew-interop example for helia | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
+| 2024-02-08 |    04     |  yew-interop  | Fixing errors with the helia imports in the yew-interop project | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
