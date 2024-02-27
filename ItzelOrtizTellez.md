@@ -105,10 +105,14 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2024-02-06 |    04     |  ZK Hack IV  | ZK Panel, Prizes & ZK Job Fair | https://www.ringcentral.com/rc-events |  
 | 2024-02-07 |    04     |  yew-interop  | Following the github yew-interop example for helia | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
 | 2024-02-08 |    04     |  yew-interop  | Fixing errors with the helia imports in the yew-interop project | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
- 
-
-
-
+| 2024-02-12 |    04     |  Helia node   | Fixing the errors from the Helia import on the yew-interop project | https://github.com/ipfs/helia/blob/84099a6616747ce2aad0f31a070204ab05e6e324/packages/helia/src/index.ts |
+| 2024-02-13 |    04     |  Helia node   | Implementing Helia based on the example repository using webpack | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-webpack |
+| 2024-02-14 |    04     |  Helia node   | Implementing Helia based on the example repository using webpack | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-webpack |
+| 2024-02-15 |    04     |  Helia node   | Implementing Helia based on the example repository using webpack | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-webpack |
+| 2024-02-19 |    04     | DECA Backlog | Project definition | https://git.decentralizedscience.org/DECA/carboncreditsbacklog | 
+| 2024-02-20 |    04     | DECA Backlog | Creating a new project using Deno | https://docs.deno.com/runtime/manual/node/npm_specifiers | 
+| 2024-02-21 |    04     | DECA Backlog | Implementing a Helia node using the typescrit example | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-typescript
+| 2024-02-22 |    04     | DECA Bcaklog | Connecting to the OrbitDB following GETTINGSTARTED | https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
 
 
 
