@@ -112,11 +112,11 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2024-02-19 |    04     | DECA Backlog | Project definition | https://git.decentralizedscience.org/DECA/carboncreditsbacklog | 
 | 2024-02-20 |    04     | DECA Backlog | Creating a new project using Deno | https://docs.deno.com/runtime/manual/node/npm_specifiers | 
 | 2024-02-21 |    04     | DECA Backlog | Implementing a Helia node using the typescrit example | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-typescript
-| 2024-02-22 |    04     | DECA Bcaklog | Connecting to the OrbitDB following GETTINGSTARTED | https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
-
-
-
-
+| 2024-02-22 |    04     | DECA Backlog | Connecting to the OrbitDB following GETTINGSTARTED | https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
+| 2024-02-26 |    04     | Markets DB | Configuring the Helia node |  https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
+| 2024-02-27 |    04     | Markets DB | DECA node bare with Helia |  https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
+| 2024-02-28 |    04     | Markets DB | Markets DB Solidity contracts | https://etherscan.io/address/0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419/advanced#code |
+| 2024-02-29 |    04     | Markets DB | Markets DB Solidity contracts | https://etherscan.io/address/0xb49f677943BC038e9857d61E7d053CaA2C1734C1#readContract |
 
 
 
