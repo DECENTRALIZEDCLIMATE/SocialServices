@@ -117,10 +117,9 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2024-02-27 |    04     | Markets DB | DECA node bare with Helia |  https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
 | 2024-02-28 |    04     | Markets DB | Markets DB Solidity contracts | https://etherscan.io/address/0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419/advanced#code |
 | 2024-02-29 |    04     | Markets DB | Markets DB Solidity contracts | https://etherscan.io/address/0xb49f677943BC038e9857d61E7d053CaA2C1734C1#readContract |
-
-| 2024-03-05 |    04     | Markets DB | Creating the functions for market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
-| 2024-03-06 |    04     | Markets DB | Creating the functions for market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
-| 2024-03-07 |    04     | Markets DB | Creating the functions for market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
+| 2024-03-05 |    04     | Markets DB | Creating the functions for the market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
+| 2024-03-06 |    04     | Markets DB | Creating the functions for the market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
+| 2024-03-07 |    04     | Markets DB | Creating the functions for the market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
 | 2024-03-08 |    04     | Final session | Activity summary report | https://git.decentralizedscience.org/DECA/DAOTask/src/branch/develop |
 
 
