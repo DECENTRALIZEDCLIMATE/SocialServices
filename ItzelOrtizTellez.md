@@ -39,9 +39,9 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-10-04 |    04     | DECA NFTs Giveaway | Uri update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/fdfb3cef77be1101843594c4c4206fba6617bac8 |
 | 2023-10-05 |    04     | Research blog SetUp | Blog Setup | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
 | 2023-10-09 |    04     | DECA NFTs Giveaway | Uri Update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
-| 2023-10-09 |    04     | DECA NFTs Giveaway | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
-| 2023-10-09 |    04     | DECA NFTs Giveaway | IPFS pin | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/58356d5fd7fd9035d66eae25cdb08894aef5f4a9 |
-| 2023-10-09 |    04     | Research blog Gateway | Fix PublicGateway path | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
+| 2023-10-10 |    04     | DECA NFTs Giveaway | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
+| 2023-10-11 |    04     | DECA NFTs Giveaway | IPFS pin | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/58356d5fd7fd9035d66eae25cdb08894aef5f4a9 |
+| 2023-10-12 |    04     | Research blog Gateway | Fix PublicGateway path | https://forum.deca.eco/-42/setup-deca-and-desci-blog-for-research |
 | 2023-10-16 |    04     | DECA NFTs WebSite | Solving issues from uris | https://git.decentralizedscience.org/DECA/dco2_ipfs/issues/3 |
 | 2023-10-17 |    04     | DECA NFTs WebSite | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
 | 2023-10-18 |    04     | DECA NFTs WebSite | Gateway link update | https://git.decentralizedscience.org/DECA/dco2_ipfs/commit/4557176b154935780a9e4c5348b13e2ef79d575f |
@@ -70,4 +70,86 @@ The Decentralized Climate Foundation Social Services logs and tasks.
 | 2023-11-28 |    04     | DECA NFTs WebSite | Html and scss to Yew | https://github.com/yewstack/yew-trunk-minimal-template |
 | 2023-11-29 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
 | 2023-11-30 |    04     | DECA NFTs WebSite | Yew JavaScript callback | https://github.com/yewstack/yew/tree/master/examples/js_callback |
+| 2023-12-04 |    04     | DECA NFTs Contract | Programming the contract | https://docs.openzeppelin.com/contracts/5.x/access-control |
+| 2023-12-05 |    04     | DECA NFTs Contract | Programming the contract | https://docs.openzeppelin.com/contracts/5.x/access-control |
+| 2023-12-06 |    04     | DECA NFTs Testing  | Testing the contract | https://cryptoguide.dev/posts/guide-to-testing-with-foundry-solidity/ |
+| 2023-12-07 |    04     | DECA NFTs Testing  | Testing the contract with the NFTs | https://cryptoguide.dev/posts/guide-to-testing-with-foundry-solidity/ |
+| 2023-12-11 |    04     | DECA NFTs | Implementing JavaScript to Rust with callback | https://github.com/yewstack/yew/blob/master/examples/js_callback/js/imp.js |
+| 2023-12-12 |    04     | SEtUp Tools | Setting up the AI | https://github.com/64bit/async-openai |
+| 2023-12-13 |    04     | DECA NFTs | Implementing JavaScript to Rust | https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ | 
+| 2023-12-14 |    04     | DECA NFTs | Implementing JavaScript to Rust | https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ |
+| 2023-12-18 |    04     | NFTs Contract | Testing the contract | https://docs.soliditylang.org/en/latest/solidity-by-example.html |
+| 2023-12-19 |    04     | NFTs Contract | Testing the contract | https://docs.soliditylang.org/en/latest/solidity-by-example.html |
+| 2023-12-20 |    04     | NFTs Contract | Testing the contract | https://docs.soliditylang.org/en/latest/solidity-by-example.html |
+| 2023-12-21 |    04     | Social Media Administration | What are the best social media to post uodates on the project |  
+| 2024-01-01 |    04     | Rust | Rust book and Rustlings chapter 5 | https://doc.rust-lang.org/book/ch05-01-defining-structs.html |
+| 2024-01-02 |    04     | Rust | Rust book and Rustlings chapter 6 | https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html |
+| 2024-01-03 |    04     | Rust | Rust book and Rustlings chapter 6 | https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html |
+| 2024-01-04 |    04     | DECA NFTs FRONTEND | Implementing JavaScript to Rust with callback | https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ |
+| 2024-01-08 |    04     | DECA NFTs FRONTEND | Example app with JavaScript callback |  https://tms-dev-blog.com/css-and-javascript-wasm-rust-yew-how-to-p2/ | 
+| 2024-01-09 |    04     | DECA NFTs giveaway | Wallet connect with Rust | https://github.com/quay-rs/ethers-web/tree/main |
+| 2024-01-10 |    04     | DECA NFTs giveaway | Designing project architecture | ed4ed8c95e | 
+| 2024-01-11 |    04     | Social Media Administration | Getting the foundation's social media passwords | https://git.decentralizedscience.org/DECA/access_db  |
+| 2024-01-15 |    04     | DECA Protocol | Fork of the DECA app to implement helia | https://github.com/ipfs/helia |
+| 2024-01-16 |    04     | ZK Hack IV | Kick off & ZK Jargon Decoder | https://www.ringcentral.com/rc-events |
+| 2024-01-17 |    04     | DECA Protocol | Fork of the DECA app to implement helia | https://git.decentralizedscience.org/itzelot01/DECA-Protocol-FE/src/branch/develop | 
+| 2024-01-18 |    04     | DECA Protocol | Fixing issues with yew JavaScript callback | https://git.decentralizedscience.org/itzelot01/DECA-Protocol-FE/src/branch/develop | 
+| 2024-01-22 |    04     | DECA Protocol | Fixing issues with yew JavaScript callback | https://git.decentralizedscience.org/itzelot01/DECA-Protocol-FE/src/branch/develop |
+| 2024-01-23 |    04     | ZK Hack IV | ZK HACK IV - Get Rusty with RISC Zero: Build your ZK Rust Application  | https://www.ringcentral.com/rc-events |
+| 2024-01-24 |    04     | DECA Protocol | Implementing  helia following a tutorial | https://dev.to/davidedelpapa/yew-tutorial-05-drive-through-libraries-2gj5 |
+| 2024-01-25 |    04     | DECA Protocol | Implementing helia with interop | https://github.com/Madoshakalaka/yew-interop |
+| 2024-01-29 |    04     | DECA Protocol | Implementing helia with interop | https://github.com/Madoshakalaka/yew-interop | 
+| 2024-01-30 |    04     |  ZK Hack IV  | Polygon Labs and Miden team | https://www.ringcentral.com/rc-events |
+| 2024-01-31 |    04     |  yew-interop  | New project based off the yew-interop example | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
+| 2024-02-01 |    04     |  yew-interop  | Following the github yew-interop example for helia | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
+| 2024-02-06 |    04     |  ZK Hack IV  | ZK Panel, Prizes & ZK Job Fair | https://www.ringcentral.com/rc-events |  
+| 2024-02-07 |    04     |  yew-interop  | Following the github yew-interop example for helia | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
+| 2024-02-08 |    04     |  yew-interop  | Fixing errors with the helia imports in the yew-interop project | https://github.com/Madoshakalaka/yew-interop/tree/master/example |  
+| 2024-02-12 |    04     |  Helia node   | Fixing the errors from the Helia import on the yew-interop project | https://github.com/ipfs/helia/blob/84099a6616747ce2aad0f31a070204ab05e6e324/packages/helia/src/index.ts |
+| 2024-02-13 |    04     |  Helia node   | Implementing Helia based on the example repository using webpack | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-webpack |
+| 2024-02-14 |    04     |  Helia node   | Implementing Helia based on the example repository using webpack | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-webpack |
+| 2024-02-15 |    04     |  Helia node   | Implementing Helia based on the example repository using webpack | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-webpack |
+| 2024-02-19 |    04     | DECA Backlog | Project definition | https://git.decentralizedscience.org/DECA/carboncreditsbacklog | 
+| 2024-02-20 |    04     | DECA Backlog | Creating a new project using Deno | https://docs.deno.com/runtime/manual/node/npm_specifiers | 
+| 2024-02-21 |    04     | DECA Backlog | Implementing a Helia node using the typescrit example | https://github.com/ipfs-examples/helia-examples/tree/main/examples/helia-typescript
+| 2024-02-22 |    04     | DECA Backlog | Connecting to the OrbitDB following GETTINGSTARTED | https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
+| 2024-02-26 |    04     | Markets DB | Configuring the Helia node |  https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
+| 2024-02-27 |    04     | Markets DB | DECA node bare with Helia |  https://github.com/orbitdb/orbitdb/blob/main/docs/GETTING_STARTED.md |
+| 2024-02-28 |    04     | Markets DB | Markets DB Solidity contracts | https://etherscan.io/address/0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419/advanced#code |
+| 2024-02-29 |    04     | Markets DB | Markets DB Solidity contracts | https://etherscan.io/address/0xb49f677943BC038e9857d61E7d053CaA2C1734C1#readContract |
+| 2024-03-05 |    04     | Markets DB | Creating the functions for the market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
+| 2024-03-06 |    04     | Markets DB | Creating the functions for the market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
+| 2024-03-07 |    04     | Markets DB | Creating the functions for the market exchange | https://git.decentralizedscience.org/DECA/dmarketsDB |
+| 2024-03-08 |    04     | Final session | Activity summary report | https://git.decentralizedscience.org/DECA/DAOTask/src/branch/develop |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
